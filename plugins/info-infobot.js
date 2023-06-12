@@ -66,7 +66,7 @@ let info = `╭─────[ *INFO DEL BOT* ]────✧
 ├ 🤖 *BOTS SECUNDARIOS ACTIVOS:* *${totaljadibot.length}*
 ├ ⛔ *RESTRICT:* ${restrict ? '*Activado ✔*' : '*Desactivado ✘*'} 
 ╰────────────···`.trim() 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝙏𝙝𝙚-𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝐘𝐚𝐦𝐢 𝐁𝐨𝐭', 'status@broadcast')
 conn.sendFile(m.chat, vn, 'infobot.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true })
 }
 handler.help = ['infobot']

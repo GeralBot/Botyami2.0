@@ -15,10 +15,10 @@ await conn.sendButton(m.chat, ``, `https://paypal.me/aleizn`, pp, [['𝙑𝙤�
 *┇ ʏᴀ ᴄᴏɴ ᴇsᴏ sᴏʏ ғᴇʟɪᴢ.😄*
 *┇ ʏ ᴀᴘᴏʏᴀʀʟᴏs ᴄᴏɴ ᴜɴᴀ 🌟*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃  𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 : https://www.instagram.com/geral_ventas18/
+*┃  𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 : https://instagram.com/yamifree23/
 *┃* *ɢʀᴀᴄɪᴀs!!*
 *┗ ┅ ━━━━━━━━━ ┅ ━*`, `https://paypal.me/aleizn`, pp, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]], m) //[['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]]
-/*await conn.sendHydrated(m.chat, str, wm, media, 'https://www.instagram.com/geral_ventas18/', 'ɢɪᴛʜᴜʙ', null, null, [
+/*await conn.sendHydrated(m.chat, str, wm, media, 'https://instagram.com/yamifree23/', 'ɢɪᴛʜᴜʙ', null, null, [
 ['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 🔰', '.grupos'],
 ['𝘾𝙧𝙚𝙖𝙙𝙤𝙧 💗', '#owner'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', '/menu']

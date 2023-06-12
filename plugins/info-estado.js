@@ -14,7 +14,7 @@ _muptime = await new Promise(resolve => { process.once('message', resolve)
 setTimeout(resolve, 1000) }) * 1000}
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let uptime = clockString(_uptime)
-await conn.reply(m.chat, `┌───⊷ *ミ🤖 𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭 彡*
+await conn.reply(m.chat, `┌───⊷ *ミ🤖 𝐘𝐚𝐦𝐢 𝐁𝐨𝐭 彡*
 ┆ *=> Bot activo ✅*
 ┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┆ *=> Bot uso público ✅️*
@@ -23,7 +23,7 @@ await conn.reply(m.chat, `┌───⊷ *ミ🤖 𝐆𝐞𝐫𝐚𝐥-𝐁𝐨
 ┆=> ${uptime} ✅
 ╰──────────────────`, fkontak, { mentions: [aa,] })
 /*let estado = `*💖 Hola  ${name} ✨*`
-conn.sendButton(m.chat, estado, `┌───⊷ *ミ🤖 𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭 🤖彡*
+conn.sendButton(m.chat, estado, `┌───⊷ *ミ🤖 𝐘𝐚𝐦𝐢 𝐁𝐨𝐭 🤖彡*
 ┆ *=> Bot activo ✅*
 ┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┆ *=> Bot uso público ✅️*
